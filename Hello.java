@@ -6,10 +6,10 @@ class Hello
 	}
 }
 
-class Bye
+class Welcome
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("Bye");
+		System.out.println("Welcome");
 	}
 }
