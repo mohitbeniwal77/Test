@@ -13,3 +13,11 @@ class Welcome
 		System.out.println("Welcome");
 	}
 }
+
+class Wel
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Wel");
+	}
+}
